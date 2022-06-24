@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=random&height=300&section=header&text=DONG-GIL%20LEE&fontSize=100)
+![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=Dong-gil%20Lee&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=𝗘𝗫𝗤𝗨𝗜𝗦𝗜𝗧𝗘%20𝗖𝗢𝗡𝗦𝗧𝗔𝗡𝗖𝗬&descAlignY=70)
 <h2 align="center">Skills</h2>
 <div align="center"><p>
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=Html5&logoColor=white">
