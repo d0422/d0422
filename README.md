@@ -1,11 +1,7 @@
 ![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=FF6F3C&text=Dong-gil%20Lee&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=𝗘𝗫𝗤𝗨𝗜𝗦𝗜𝗧𝗘%20𝗖𝗢𝗡𝗦𝗧𝗔𝗡𝗖𝗬&descAlignY=70)
 
 <h2 align="center">Skills</h2>
-<div align="center">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d0422&layout=compact)](https://github.com/d0422/github-readme-stats) [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlfehd2021)](https://solved.ac/rlfehd2021)
-
- 
+<div align="center"> [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlfehd2021)](https://solved.ac/rlfehd2021)
   <p>
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=Html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-F43059?style=for-the-badge&logo=css3&logoColor=white">
