@@ -2,17 +2,33 @@
 
 ### 꾸준함으로 추상적인 것을 구체화하는 개발자 이동길입니다.
 
+많은 사람이 동의할 수 있는 새로운 가치를 구체화해 세상을 바꿔나가고 싶습니다.
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fd0422%2Fhit-counter&count_bg=%23FF7F50&title_bg=%23555555&icon=soundcloud.svg&icon_color=%23FF7F50&title=d0422&edge_flat=false)](https://hits.seeyoufarm.com)
+<a href="https://0422.tistory.com/"><img src="https://img.shields.io/badge/-Blog-coral?logo=Blogger&logoColor=white"/></a>
+
 # 🛠️ skill
 
 ## tech stack
 
-<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=Html5&logoColor=white"><img src="https://img.shields.io/badge/css-F43059?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"><img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=react&logoColor=white"><img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/html-E34F26?style=?style=flat-square&logo=Html5&logoColor=white">
+<img src="https://img.shields.io/badge/css-F43059?style=?style=flat-square&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=?style=flat-square&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/react-61DAFB?style=?style=flat-square&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/React Native-61DAFB?style=?style=flat-square&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/typescript-3178C6?style=?style=flat-square&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=?style=flat-square&logo=mysql&logoColor=white">
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=?style=flat-square&logo=C&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=?style=flat-square&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/java-007396?style=?style=flat-square&logo=java&logoColor=white"/>
 
 ## tools
 
-<img src="https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/figma-764ABC?style=for-the-badge&logo=figma&logoColor=white"/><img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white"/><img src="https://img.shields.io/badge/amazon aws-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/git-F05033?style=?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/figma-764ABC?style=?style=flat-square&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-000000?style=?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/amazon aws-232F3E?style=?style=flat-square&logo=amazon aws&logoColor=white"/>
 
 ## 🐾BOJ
 
