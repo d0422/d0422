@@ -11,24 +11,12 @@
 
 ## tech stack
 
-<img src="https://img.shields.io/badge/html-E34F26?style=?style=flat-square&logo=Html5&logoColor=white">
-<img src="https://img.shields.io/badge/css-F43059?style=?style=flat-square&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=?style=flat-square&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/react-61DAFB?style=?style=flat-square&logo=react&logoColor=white">
-<img src="https://img.shields.io/badge/React Native-61DAFB?style=?style=flat-square&logo=react&logoColor=white">
-<img src="https://img.shields.io/badge/typescript-3178C6?style=?style=flat-square&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/mysql-4479A1?style=?style=flat-square&logo=mysql&logoColor=white">
-
-<img src="https://img.shields.io/badge/C-A8B9CC?style=?style=flat-square&logo=C&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=?style=flat-square&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/java-007396?style=?style=flat-square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/html-E34F26?style=?style=flat-square&logo=Html5&logoColor=white"> <img src="https://img.shields.io/badge/css-F43059?style=?style=flat-square&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=?style=flat-square&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=?style=flat-square&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/React Native-61DAFB?style=?style=flat-square&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/typescript-3178C6?style=?style=flat-square&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=?style=flat-square&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=?style=flat-square&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=?style=flat-square&logo=java&logoColor=white"/>
 
 ## tools
 
-<img src="https://img.shields.io/badge/git-F05033?style=?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/figma-764ABC?style=?style=flat-square&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/github-000000?style=?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/amazon aws-232F3E?style=?style=flat-square&logo=amazon aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/git-F05033?style=?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/figma-764ABC?style=?style=flat-square&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/github-000000?style=?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/amazon aws-232F3E?style=?style=flat-square&logo=amazon aws&logoColor=white"/>
 
 ## 🐾BOJ
 
