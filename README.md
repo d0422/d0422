@@ -30,7 +30,7 @@
 | 2022.08.07 ~ 2022.10.16 | [초단기강수예측](https://github.com/d0422/Super-Short-Rain-Forecast/)      | 기상청 초단기 강수예측 Open API를 이용한 6시간 짜리 지역 날씨 예보 어플리케이션       | 개인 프로젝트       | Typescript, React Native           |
 | 2022.09.02 ~ 2022.09.04 | [참으면 돼지 ](https://github.com/d0422/PatientPig)                        | 욕구를 참으면 성취감을 제공하고 랭킹과 애니메이션을 통해 재미를 제공하는 어플리케이션 | 9회 유니톤          | Typescript, React Native           |
 | 2022.09.05 ~            | [캐밋](https://github.com/Casual-Meet/CaMeet-Front)                        | 대학생을 타겟으로 캐주얼한 만남을 제공하는 서비스                                     | 캐밋                | React                              |
-| 2022.11 ~               | [호미](https://github.com/Hang-Jeong-Sal/Front-End)                        | 텃밭 빌리기, 빌려주기 서비스                                                          | 멋쟁이사자처럼 10기 | Typescript, NextJS, Amazon EC2, S3 |
+| 2022.11.01 ~ 2022.11.30 | [호미](https://github.com/Hang-Jeong-Sal/Front-End)                        | 텃밭 빌리기, 빌려주기 서비스                                                          | 멋쟁이사자처럼 10기 | Typescript, NextJS, Amazon EC2, S3 |
 | 2022.11.04~             | [YAPP (Yet Another Pacman Project)](https://github.com/d0422/yapp)         | C++과 QT 프레임워크를 이용한 팩맨 게임 프로그래밍                                     | 객체지향프로그래밍  | C++, QT                            |
 
 # 🚀Experience
