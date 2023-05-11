@@ -49,3 +49,4 @@ AWS EC2, CodeDeploy, AWS Lambda, AWS S3, AWS CloudFront
 | 2022.09.05 ~2022.12.24  | 캐밋 (중앙대 LINC3.0 2022 start-up Members 창업동아리)                               |
 | 2023.01~                | 멋쟁이사자처럼 11기 프론트엔드 팀장                                                  |
 | 2023.01.28~             | 코딩플러스 강사(C++, C, Python)                                                      |
+| 2023.05~                | Friending (2023 K-StartUP 예비창업패키지)                                            |
