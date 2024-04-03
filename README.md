@@ -27,6 +27,8 @@
 
 ## UX, DX 개선하기
 
+사용자 경험은 물론 개발자 경험을 개선시키기 위해 고민하고, 이를 좋아합니다.
+
 - SSR vs SSG light house로 비교하여 서비스 성능 개선하기 [글보기](https://0422.tistory.com/295)
 - ContextAPI로 라이브러리 구현부 의존성 제거하기 [글보기](https://0422.tistory.com/335)
 - vite환경에서 번들 분석/경량화하여 빌드 시간, 초기 렌더링을 개선한 이야기 [글보기](https://0422.tistory.com/340)
