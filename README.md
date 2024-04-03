@@ -15,28 +15,28 @@
 
 개념을 이론적으로 학습하기보다는 직접 해당 개념을 코드로 구현해보거나, 라이브러리 코드를 읽으며 학습해나가고 있습니다.
 
-- [git내부 살펴보기](https://0422.tistory.com/290)<br>
-- [Node.js서버에선 절대 이벤트 루프를 막지마](https://0422.tistory.com/305)<br>
-- [CORS박사님을 아세요?](https://0422.tistory.com/307)<br>
-- [프론트엔드 웹서버 직접만들고 라이브러리 뜯어보기](https://0422.tistory.com/312) <br>
-- [번들링 과정을 이해해보자](https://0422.tistory.com/315) <br>
-- [리액트를 만들면서 이해해보자](https://0422.tistory.com/317) <br>
-- [진짜 리액트는 어떻게 생겼나?](https://0422.tistory.com/321)<br>
-- [WebRTC를 이해해보자.](https://0422.tistory.com/324)<br>
-- [모노레포 Vite 경로의 마법사를 해부해보자 - vite-tsconfig-paths](https://0422.tistory.com/358)
+- git내부 살펴보기 [글보기](https://0422.tistory.com/290)
+- Node.js서버에선 절대 이벤트 루프를 막지마 [글보기](https://0422.tistory.com/305)
+- CORS박사님을 아세요? [글보기](https://0422.tistory.com/307)
+- 프론트엔드 웹서버 직접만들고 라이브러리 뜯어보기 [글보기](https://0422.tistory.com/312)
+- 번들링 과정을 이해해보자 [글보기](https://0422.tistory.com/315)
+- 리액트를 만들면서 이해해보자 [글보기](https://0422.tistory.com/317)
+- 진짜 리액트는 어떻게 생겼나? [글보기](https://0422.tistory.com/321)
+- WebRTC를 이해해보자 [글보기](https://0422.tistory.com/324)
+- 모노레포 Vite 경로의 마법사를 해부해보자 - vite-tsconfig-paths [글보기](https://0422.tistory.com/358)
 
 ## UX, DX 개선하기
 
-- [SSR vs SSG light house로 비교하여 서비스 성능 개선하기](https://0422.tistory.com/295)<br>
-- [ContextAPI로 라이브러리 구현부 의존성 제거하기](https://0422.tistory.com/335)
-- [vite환경에서 번들 분석/경량화하여 빌드 시간, 초기 렌더링을 개선한 이야기](https://0422.tistory.com/340)<br>
-- [코드 스플리팅으로 리액트 초기 렌더링을 개선한 이야기](https://0422.tistory.com/341)<br>
-- [규격이 없고 중첩이 가능한 모달 시스템을 만들어보자](https://0422.tistory.com/328)<br>
-- [Turborepo를 도입하게 된 이야기](https://0422.tistory.com/344)<br>
-- [웹뷰 + 모노레포 환경에서 자동 토큰 갱신 훅으로 개발자 경험 개선하기 (feat. axios, zustand)](https://0422.tistory.com/348)<br>
-- [무한스크롤 시리즈- 하단감지부터 좋아요 피드갱신까지](https://0422.tistory.com/349)<br>
-- [React-ReactNative Webview통신을 Event-Driven에서 Request-Response형태로 확장하기](https://0422.tistory.com/354)<br>
-- [모노레포에서 Storybook 통합으로 UI배포 시간 단축시키기 (6min -> 2min)](https://0422.tistory.com/357)<br>
+- SSR vs SSG light house로 비교하여 서비스 성능 개선하기 [글보기](https://0422.tistory.com/295)
+- ContextAPI로 라이브러리 구현부 의존성 제거하기 [글보기](https://0422.tistory.com/335)
+- vite환경에서 번들 분석/경량화하여 빌드 시간, 초기 렌더링을 개선한 이야기 [글보기](https://0422.tistory.com/340)
+- 코드 스플리팅으로 리액트 초기 렌더링을 개선한 이야기 [글보기](https://0422.tistory.com/341)
+- 규격이 없고 중첩이 가능한 모달 시스템을 만들어보자 [글보기](https://0422.tistory.com/328)
+- Turborepo를 도입하게 된 이야기 [글보기](https://0422.tistory.com/344)
+- 웹뷰 + 모노레포 환경에서 자동 토큰 갱신 훅으로 개발자 경험 개선하기 (feat. axios, zustand) [글보기](https://0422.tistory.com/348)
+- 무한스크롤 시리즈- 하단감지부터 좋아요 피드갱신까지 [글보기](https://0422.tistory.com/349)
+- React-ReactNative Webview통신을 Event-Driven에서 Request-Response형태로 확장하기 [글보기](https://0422.tistory.com/354)
+- 모노레포에서 Storybook 통합으로 UI배포 시간 단축시키기 (6min -> 2min) [글보기](https://0422.tistory.com/357)
 
 # 🚀Project
 
