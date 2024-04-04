@@ -1,8 +1,10 @@
 # 🚀 Introduce
 
-### 깊게 파고들어 학습하고, 사용자와 개발자의 문제를 해결하는 개발자 이동길입니다.
+### 깊게 파고들어 학습하고, 이를 통해 문제를 해결하는 개발자 이동길입니다.
 
-꾸준함으로 추상적인 것들을 구체화해나갑니다. 많은 사람이 동의할 수 있는 새로운 가치를 구체화해 세상을 바꿔나가고 싶습니다.
+문제를 인지하고, 학습하고, 구현하여 문제를 해결합니다.
+꾸준함으로 추상적인 것들을 구체화해나갑니다.
+많은 사람이 동의할 수 있는 가치를 구체화해 세상을 바꿔나가고 싶습니다.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fd0422%2Fhit-counter&count_bg=%23FF7F50&title_bg=%23555555&icon=soundcloud.svg&icon_color=%23FF7F50&title=d0422&edge_flat=false)](https://hits.seeyoufarm.com)
 <a href="https://0422.tistory.com/"><img src="https://img.shields.io/badge/-Blog-coral?logo=Blogger&logoColor=white"/></a>
