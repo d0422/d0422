@@ -42,25 +42,15 @@
 - React-ReactNative Webview통신을 Event-Driven에서 Request-Response형태로 확장하기 [글보기](https://0422.tistory.com/354)
 - 모노레포에서 Storybook 통합으로 UI배포 시간 단축시키기 (6min -> 2min) [글보기](https://0422.tistory.com/357)
 - 라이브러리를 만들어보자 [글보기](https://0422.tistory.com/360)
-
-# 🚀Project
-
-| Period                  | Title                                                                                                                                             | Description                                                                                | Experience                   | Tech Stack                                                                                    |
-| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ---------------------------- | --------------------------------------------------------------------------------------------- |
-| 2023.11.06~ 2023.12.15  | [AlgoITNi](https://github.com/boostcampwm2023/web05-AlgoITNi)                                                                                     | 음성, 화상, 채팅을 하며 함께 알고리즘 문제를 풀며 학습하는 서비스                          | 네이버 부스트캠프 웹・모바일 | WebRTC, React Typescript, CRDT                                                                |
-| 2023.08.09 ~ 2023.08.10 | [멋사 중앙대 블로그 피드](https://github.com/d0422/blog-cau-likelion)                                                                             | 멋사 중앙대 블로그 피드 서비스<br> https://blog.cau-likelion.org                           | 개인프로젝트                 | NextJS,Typescript, Vercel, Express, FCM(push notification)                                    |
-| 2023.04.01 ~ 2023.12.31 | [Friendig MVP ](https://github.com/friending-online/friending-mvp)<br><br>[Friending BackEnd](https://github.com/friending-online/friending-back) | Friending의 MVP, 백엔드 서비스개발 <br>http://friending.online/                            | Friending                    | React, Typscript, Netlify<br><br> NodeJS, Express, TypeORM, EC2, S3, CodeDeploy, Jest, Docker |
-| 2023.01.23 ~ 2023.02.21 | [졸업학점계산기](https://github.com/d0422/CAUIS-scheduler)                                                                                        | 산업보안학과, 사이버보안융합전공에 대한 졸업학점계산기 https://cauisscheduler.netlify.app/ | 개인프로젝트                 | React, Typescript                                                                             |
-| 2023.01.04 ~ 2023.03.08 | [멋쟁이사자처럼 중앙대](https://github.com/cau-likelion-org/cau-likelion-next)                                                                    | 멋쟁이사자처럼 중앙대 대표사이트 <br>https://cau-likelion.org                              | 멋쟁이 사자처럼 11기 운영진  | Typescript,NextJS, Amazon Lambda, S3, CloudFront                                              |
-| 2022.11.04~ 2022.12.09  | [YAPP (Yet Another Pacman Project)](https://github.com/d0422/yapp)                                                                                | C++과 QT 프레임워크를 이용한 팩맨 게임 프로그래밍                                          | 객체지향프로그래밍           | C++, QT                                                                                       |
-| 2022.11.01 ~ 2022.11.30 | [호미](https://github.com/Hang-Jeong-Sal/Front-End)                                                                                               | 텃밭 빌리기, 빌려주기 서비스                                                               | 멋쟁이사자처럼 10기          | Typescript, NextJS, Amazon EC2, S3                                                            |
+  |
 
 # 📚 Education & Experience
 
-1.  네이버 부스트캠프 웹・모바일 8기 챌린지/멤버십 (2023.07.10 ~ 2023.12.15)
-2.  코딩플러스 강사(C++, C, Python) (2023.01.28~)
-3.  멋쟁이사자처럼 11기 프론트엔드 파트장 (2023.01~ 2023.11.29)
-4.  Friending (2023 K-StartUP 예비창업패키지) (2023.05~ 2023.12.31)
-5.  9회 유니톤 우수상 (2022.09.02 ~ 2022.09.04)
-6.  삼일PWC회계법인 인턴 - s화재 대고객서비스(웹, 어플리케이션) 코드인스펙션/취약점 점검(2022.07 ~ 2022.08)
-7.  멋쟁이사자처럼 10기 (2022.03 ~ 2022.11)
+1.  엘리스(elice) 프론트엔드 개발자 인턴 (2024.06.24 ~ )
+2.  네이버 부스트캠프 웹・모바일 8기 챌린지/멤버십 (2023.07.10 ~ 2023.12.15)
+3.  코딩플러스 강사(C++, C, Python) (2023.01.28~ 2024.07.13)
+4.  멋쟁이사자처럼 11기 프론트엔드 파트장 (2023.01~ 2023.11.29)
+5.  Friending (2023 K-StartUP 예비창업패키지) (2023.05~ 2023.12.31)
+6.  9회 유니톤 우수상 (2022.09.02 ~ 2022.09.04)
+7.  삼일PWC회계법인 인턴 - s화재 대고객서비스(웹, 어플리케이션) 코드인스펙션/취약점 점검(2022.07 ~ 2022.08)
+8.  멋쟁이사자처럼 10기 (2022.03 ~ 2022.11)
