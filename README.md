@@ -42,11 +42,10 @@
 - React-ReactNative Webview통신을 Event-Driven에서 Request-Response형태로 확장하기 [글보기](https://0422.tistory.com/354)
 - 모노레포에서 Storybook 통합으로 UI배포 시간 단축시키기 (6min -> 2min) [글보기](https://0422.tistory.com/357)
 - 라이브러리를 만들어보자 [글보기](https://0422.tistory.com/360)
-  |
 
 # 📚 Education & Experience
 
-1.  엘리스(elice) 프론트엔드 개발자 인턴 (2024.06.24 ~ )
+1.  엘리스(elice) 프론트엔드 개발자 인턴 (2024.06.24 ~ 2024.08.30)
 2.  네이버 부스트캠프 웹・모바일 8기 챌린지/멤버십 (2023.07.10 ~ 2023.12.15)
 3.  코딩플러스 강사(C++, C, Python) (2023.01.28~ 2024.07.13)
 4.  멋쟁이사자처럼 11기 프론트엔드 파트장 (2023.01~ 2023.11.29)
