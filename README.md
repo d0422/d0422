@@ -6,10 +6,19 @@
 꾸준함으로 추상적인 것들을 구체화해나갑니다.
 많은 사람이 동의할 수 있는 가치를 구체화해 세상을 바꿔나가고 싶습니다.
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fd0422%2Fhit-counter&count_bg=%23FF7F50&title_bg=%23555555&icon=soundcloud.svg&icon_color=%23FF7F50&title=d0422&edge_flat=false)](https://hits.seeyoufarm.com)
+### DevFeed
+
+[로그인 없는 개발블로그 구독 서비스](https://dev-feed.kro.kr/) ([GooglePlay](https://play.google.com/store/apps/details?id=com.devfeed)|[AppStore](https://apps.apple.com/kr/app/dev-feed/id6737579223))
+
+Dev-Feed로 나만의 기술블로그 피드를 만들어봐요.
+
 <a href="https://0422.tistory.com/"><img src="https://img.shields.io/badge/-Blog-coral?logo=Blogger&logoColor=white"/></a>
 
-# ✏️ Article
+<details>
+
+<summary>
+✏️ Article
+</summary>
 
 개발, 학습 경험과 이를 통해 학습한 것들을 지속적으로 글로 남겨나가고 있습니다.
 
@@ -47,8 +56,10 @@
 - 라이브러리를 만들어보자 [글보기](https://0422.tistory.com/360)
 
 </details>
+</details>
 
-# 📚 Education & Experience
+<details>
+<summary>📚 Education & Experience</summary>
 
 1.  당근알바 Software Engineer Intern, Frontend (2025.02 ~ )
 2.  2024 관광데이터 활용 공모전(한국관광공사 X kakao) 서비스 개발 최우수상 (한국관광공사 사장상) (2024.07.01 ~ 2024.10.29)
@@ -60,3 +71,5 @@
 8.  9회 유니톤 우수상 (2022.09.02 ~ 2022.09.04)
 9.  삼일PWC회계법인 인턴 - s화재 대고객서비스(웹, 어플리케이션) 코드인스펙션/취약점 점검(2022.07 ~ 2022.08)
 10. 멋쟁이사자처럼 10기 (2022.03 ~ 2022.11)
+
+</details>
