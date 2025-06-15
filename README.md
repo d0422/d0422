@@ -14,11 +14,7 @@ Dev-Feed로 나만의 기술블로그 피드를 만들어봐요.
 
 <a href="https://0422.tistory.com/"><img src="https://img.shields.io/badge/-Blog-coral?logo=Blogger&logoColor=white"/></a>
 
-<details>
-
-<summary>
-✏️ Article
-</summary>
+### ✏️ Article
 
 개발, 학습 경험과 이를 통해 학습한 것들을 지속적으로 글로 남겨나가고 있습니다.
 
@@ -27,6 +23,8 @@ Dev-Feed로 나만의 기술블로그 피드를 만들어봐요.
 
 개념을 이론적으로 학습하기보다는 직접 해당 개념을 코드로 구현해보거나, 라이브러리 코드를 읽으며 학습해나가고 있습니다.
 
+- Safari iframe은 부모와 같은 스레드를 사용한다.(Lottie 스레드 블로킹) [글보기](https://0422.tistory.com/390)
+- 패키지 업데이트를 위한 yarn.lock에 대한 이해 [글보기](https://0422.tistory.com/382)
 - git내부 살펴보기 [글보기](https://0422.tistory.com/290)
 - Node.js서버에선 절대 이벤트 루프를 막지마 [글보기](https://0422.tistory.com/305)
 - CORS박사님을 아세요? [글보기](https://0422.tistory.com/307)
@@ -56,10 +54,8 @@ Dev-Feed로 나만의 기술블로그 피드를 만들어봐요.
 - 라이브러리를 만들어보자 [글보기](https://0422.tistory.com/360)
 
 </details>
-</details>
 
-<details>
-<summary>📚 Education & Experience</summary>
+### 📚 Education & Experience
 
 1.  당근알바 Software Engineer Intern, Frontend (2025.02 ~ )
 2.  2024 관광데이터 활용 공모전(한국관광공사 X kakao) 서비스 개발 최우수상 (한국관광공사 사장상) (2024.07.01 ~ 2024.10.29)
@@ -71,5 +67,3 @@ Dev-Feed로 나만의 기술블로그 피드를 만들어봐요.
 8.  9회 유니톤 우수상 (2022.09.02 ~ 2022.09.04)
 9.  삼일PWC회계법인 인턴 - s화재 대고객서비스(웹, 어플리케이션) 코드인스펙션/취약점 점검(2022.07 ~ 2022.08)
 10. 멋쟁이사자처럼 10기 (2022.03 ~ 2022.11)
-
-</details>
